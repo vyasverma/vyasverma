@@ -9,8 +9,8 @@
 - 🔭 I’m currently studying at Bhilai Institute of Technology
 - 🌱 I’m currently learning Java lang.,Flutter.
 - 👯 I’m looking to collaborate on C++ related projects
-- 🤔 I’m looking for help with ...Career Guidance 🙃
-- 💬 Ask me about ...For now nothing 😢
+- 🤔 I’m looking for help with ...Internships and Career opportunity 🙃
+- 💬 Ask me about ...whatever you want 😢
 - ### *Connect with me:*
 - 📫 How to reach me:  [*Instagram*](https://instagram.com/v_ya_s_?utm_medium=copy_link),
                        [*Twitter*](https://twitter.com/VyasVerma19),
